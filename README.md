@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning JS and Python.
 - 🌱 I’m currently learning JS.
 - 📫 How to reach me ...
-<img width="288" height="288" alt="gmail" src="https://github.com/user-attachments/assets/10b75705-bd68-4519-95f8-1f4acbde2f55" /> chunan95@gmail.com
+- <img width="10" height="10" alt="gmail" src="https://github.com/user-attachments/assets/10b75705-bd68-4519-95f8-1f4acbde2f55" /> chunan95@gmail.com
 
 <!---
 chunan95/chunan95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
