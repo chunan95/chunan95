@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @chunan95
-- 👀 I’m interested in learning python. I just started coding python (coding in general) two weeks ago.
-- 🌱 I’m currently learning python.
-- 💞️ Rn I’m looking to collaborate on any new resources to help develop and practice coding.
+- 👋 Hi, I’m Johnny Chen
+- 👀 I’m interested in learning JS and Python.
+- 🌱 I’m currently learning JS.
 - 📫 How to reach me ...
 
 <!---
